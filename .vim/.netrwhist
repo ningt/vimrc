@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/ningt/Development/blog/.git'
+let g:netrw_dirhist_2='/usr/local/lib'
+let g:netrw_dirhist_3='/Users/ningt/Downloads/ehdb/temp'
+let g:netrw_dirhist_4='/Users/ningt/Development/blog/themes/next'
+let g:netrw_dirhist_5='/Users/ningt/Development/golearn-frontend/app'
+let g:netrw_dirhist_6='/Users/ningt/.vim'
+let g:netrw_dirhist_7='/Users/ningt/Development/golearn-frontend/app'
+let g:netrw_dirhist_8='/Users/ningt/Development/nbascore/nbascore'
+let g:netrw_dirhist_9='/Users/ningt/Development/golearn-frontend/app'
